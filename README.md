@@ -1,13 +1,15 @@
-# kalmancpp simple kalman filter c++ header only library ## Fetures
+# kalmancpp simple kalman filter c++ header only library 
+
+## Fetures
 
 - Kalman filter
 - Extended kalman filter
 
-# Dependencies
+## Dependencies
 
-- [lincpp(header only](https://github.com/jpvolt/lincpp)
+[lincpp(header only](https://github.com/jpvolt/lincpp)
 
-# Usage
+## Usage
 
 ```c++
 
