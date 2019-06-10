@@ -5,7 +5,7 @@
 
 # Dependencies
 
-- lincpp(header only)
+- [https://github.com/jpvolt/lincpp](lincpp(header only)
 
 # Usage
 
