@@ -1,0 +1,3 @@
+[submodule "lincpp"]
+	path = lincpp
+	url = https://github.com/jpvolt/lincpp

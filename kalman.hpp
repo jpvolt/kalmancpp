@@ -1,6 +1,6 @@
 #pragma once 
 #include <string>
-#include "mat.hpp"
+#include "lincpp/mat.hpp"
 namespace kalman{
 
 class KF{
